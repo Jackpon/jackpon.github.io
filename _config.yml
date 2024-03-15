@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: 世佰跑国际货运代理有限公司
+description: 承诺所致，使命所在
+url: https://pao400.com
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -27,17 +27,6 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-# Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
-social:
-  name: Songzi Vong
-  links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
-google_site_verification: xxxxx
 lang: en
 
 sass:
